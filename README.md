@@ -1,4 +1,4 @@
-# 📱 WhatsApp AI CRM — Multi-Tenant SaaS.
+# 📱 WhatsApp AI CRM — Multi-Tenant SaaS..
 
 A production-ready, multi-tenant WhatsApp CRM SaaS.  
 Each business client gets their own isolated account, leads, conversations, AI personality, and dashboard.
